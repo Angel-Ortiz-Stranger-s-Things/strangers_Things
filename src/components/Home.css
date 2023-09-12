@@ -1,0 +1,20 @@
+.Big-Header {
+  color: white;
+  font-size: 4rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.Header-Comment {
+  color: white;
+  font-size: 2rem;
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+.Home-Pic {
+  display: grid;
+  image-resolution: auto;
+  justify-content: center;
+}
